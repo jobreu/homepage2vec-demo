@@ -2,6 +2,9 @@
 
 Binderized repository for exploring [`Homepage2Vec`](https://github.com/epfl-dlab/homepage2vec) website classifications
 
+Click the *Launch Binder* button to access the `Jupyter` Notebook in an interactive environment
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jobreu/homepage2vec-demo/main?urlpath=lab)
+
 ## Description
 
 This notebook is meant to demonstrate how URLs can be classified using the `homepage2vec` library for `Python`.
