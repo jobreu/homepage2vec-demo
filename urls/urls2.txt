@@ -1,0 +1,6 @@
+wikipedia.org
+paypal.com
+nba.com
+stanford.edu
+github.com
+bing.com
