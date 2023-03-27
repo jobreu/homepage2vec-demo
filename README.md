@@ -1,17 +1,18 @@
 # Homepage2vec demo
 
-Binderized repository for exploring [`Homepage2Vec`](https://github.com/epfl-dlab/homepage2vec) website classifications
-
-Click the *Launch Binder* button to access the `Jupyter` Notebook in an interactive environment
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jobreu/homepage2vec-demo/main?urlpath=lab)
-
 ## Description
 
-This notebook is meant to demonstrate how URLs can be classified using the `homepage2vec` library for `Python`.
+The `Jupyter` notebook contained in this repository is meant to demonstrate how URLs can be classified using the [`homepage2vec` library](https://github.com/epfl-dlab/homepage2vec) for `Python`.
 
 ## Usage
 
-***IMPORTANT***: The demo notebook hosted on *MyBinder.org* is only meant for testing purposes. Hence, it should only be used for a few test URLs. If you want to use the functions/code provided here to classify a large number of URLs for your research, please copy/clone the notebook and run the notebook (or the code it contains) on your local machine or your own server. The easiest way of using and editing `Jupyter` notebooks on your machine is probably [*Anaconda*](https://www.anaconda.com/).
+There are different ways in which you can run the Jupyter notebook (i.e., the `.ipynb` file) contained in this repo. To test the URL classification with `homepage2vec`, you can, e.g., clone or fork this repo and use [*GitHub Codespaces*](https://github.com/features/codespaces) to run the notebook. Alternatively, you can also use [*Google Colab*](https://colab.research.google.com/) and upload and run the notebook there (see this [*StackOverflow* post](https://stackoverflow.com/questions/48961866/how-to-run-a-downloaded-jupyter-notebook-on-google-colaboratory) for instructions on how to do that).
+
+The folder `urls` in this repo contains two `.txt` files with exemplary URLs to classify.
+
+***IMPORTANT***: Depending on your subscription/plan for services like *GitHub Codespaces* or *Google Colab*, these options might not be the best choice for classifying a large number of URLs as the classification process can take quite some (computing) time.
+
+If you want to use the functions/code provided here to classify a large number of URLs for your research, you might want to copy/clone the notebook and run the notebook (or the code it contains) on your local machine or your own server. The easiest way of using and editing `Jupyter` notebooks on your machine is probably [*Anaconda*](https://www.anaconda.com/). *Note*: If you do not use `git` and *GitHub*, you can get a `.zip` file containing everything in this repo by clicking on the green "Code" button on the repo website and then choosing "Download ZIP").
 
 ## Acknowledgment
 
